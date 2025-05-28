@@ -1,0 +1,4 @@
+Migraciones:
+Add-Migration Inicial -Context AppDbContext
+
+Update-Database -Context AppDbContext

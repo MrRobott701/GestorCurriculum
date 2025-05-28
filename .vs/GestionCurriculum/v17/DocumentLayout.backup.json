@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\GestionCurriculum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60557FC-D467-44CE-B1DB-C5AAADA9E4BD}|GestionCurriculum.csproj|c:\\users\\jorge\\onedrive\\documents\\vm\\gestioncurriculum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60557FC-D467-44CE-B1DB-C5AAADA9E4BD}|GestionCurriculum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B309E91-7BBD-4EFE-BACB-D20A380FFB91}|..\\Datos\\Datos.csproj|c:\\users\\jorge\\onedrive\\documents\\vm\\datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60557FC-D467-44CE-B1DB-C5AAADA9E4BD}|GestionCurriculum.csproj|c:\\users\\jorge\\onedrive\\documents\\vm\\gestioncurriculum\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B60557FC-D467-44CE-B1DB-C5AAADA9E4BD}|GestionCurriculum.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FBED0-D397-479F-8C84-4ACF25DFDF03}|..\\Servicios\\Servicios.csproj|c:\\users\\jorge\\onedrive\\documents\\vm\\servicios\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\Datos\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\Datos\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Datos\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:58:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\GestionCurriculum\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\GestionCurriculum\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T00:51:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\GestionCurriculum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\GestionCurriculum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAZ2ZmZmYOwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:46:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\Servicios\\Utils\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "..\\Servicios\\Utils\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Documents\\VM\\Servicios\\Utils\\ApiResponse.cs",
+              "RelativeToolTip": "..\\Servicios\\Utils\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:42:55.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
